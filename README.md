@@ -1,5 +1,5 @@
 # Hello-Git
-Họ và tên: Võ Lê THÀNH Cảm.
+Họ và tên: Võ Lê Thành Cảm.
 Lớp: 12 Tin.
 Trường: Trung học phổ thông Chuyên Chu Văn An.
 Mục tiêu học lập trình: Để trở thành một lập trình viên kiếm được nhiều tiền.
